@@ -7,7 +7,7 @@
 
 #define MAX_RECORD_SIZE 256
 
-// making the function prototypes
+// making the prototypes
 void write_record(const char *filename, const char *record);
 void read_records(const char *filename);
 
