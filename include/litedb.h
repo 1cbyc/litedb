@@ -7,8 +7,8 @@
 
 #define MAX_RECORD_SIZE 256
 
-// Function prototypes
+// making the function prototypes
 void write_record(const char *filename, const char *record);
 void read_records(const char *filename);
 
-#endif // LITE_DB_H
+#endif
